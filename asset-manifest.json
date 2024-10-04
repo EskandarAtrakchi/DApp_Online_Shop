@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dappazon-shop/static/css/main.06406dda.css",
+    "main.js": "/dappazon-shop/static/js/main.90bb41e8.js",
+    "static/js/787.58c8358f.chunk.js": "/dappazon-shop/static/js/787.58c8358f.chunk.js",
+    "static/media/star-regular.svg": "/dappazon-shop/static/media/star-regular.4ff5d2ba9143bd0557fce03503a4b485.svg",
+    "index.html": "/dappazon-shop/index.html",
+    "static/media/star-solid.svg": "/dappazon-shop/static/media/star-solid.26555deeac8fd8a896323c2036ea786a.svg",
+    "static/media/close.svg": "/dappazon-shop/static/media/close.ae469738e479d31aa952364e12120ad2.svg",
+    "main.06406dda.css.map": "/dappazon-shop/static/css/main.06406dda.css.map",
+    "main.90bb41e8.js.map": "/dappazon-shop/static/js/main.90bb41e8.js.map",
+    "787.58c8358f.chunk.js.map": "/dappazon-shop/static/js/787.58c8358f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06406dda.css",
+    "static/js/main.90bb41e8.js"
+  ]
+}
